@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@reference "tailwindcss";
+
+body {
+  @apply bg-[#020908] text-white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    "Segoe UI", sans-serif;
+}
